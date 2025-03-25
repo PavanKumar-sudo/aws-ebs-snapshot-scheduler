@@ -1,0 +1,1 @@
+54 1 * * * /bin/bash /home/ubuntu/ec2-backup-script/backup.sh >> /home/ubuntu/ec2-backup-script/logs/cron.log 2>&1

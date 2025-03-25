@@ -1,0 +1,11 @@
+/home/ubuntu/ec2-backup-script/backup.sh: line 2: ./config.sh: No such file or directory
+/home/ubuntu/ec2-backup-script/backup.sh: line 6: : No such file or directory
+
+Invalid endpoint: https://ec2..amazonaws.com
+/home/ubuntu/ec2-backup-script/backup.sh: line 27: : No such file or directory
+
+Invalid endpoint: https://ec2..amazonaws.com
+/home/ubuntu/ec2-backup-script/backup.sh: line 35: : No such file or directory
+cat: '': No such file or directory
+
+Invalid endpoint: https://email..amazonaws.com
